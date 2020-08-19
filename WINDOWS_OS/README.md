@@ -1,6 +1,6 @@
 Note:
 - A bin folder is create in C:\Users\user_name\Documents directory to store the script
-- It is assumed you have git and pyhton installed. If not install them first
+- It is assumed you have git and python installed. If not install them first
 ### Installation
 - Edit the **.env** file according to your required file path. It is set default to `C:\`
 - Run the **initialize.bat** file in the CMD as administrator.
